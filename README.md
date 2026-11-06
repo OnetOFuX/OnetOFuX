@@ -1,3 +1,5 @@
+<!-- Reemplaza TU_USUARIO, TU_LINKEDIN y TU_CORREO antes de publicar -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:2a0845,100:ff00c8&height=240&section=header&text=Quinn&fontSize=90&fontColor=00f0ff&fontAlignY=42&desc=%3E%3E%20FULL%20STACK%20DEVELOPER%20%2F%2F%20BACKEND%20OPERATOR&descSize=17&descAlignY=66&descColor=f5ff00&stroke=ff00c8&strokeWidth=2&animation=twinkling" width="100%" />
@@ -22,7 +24,7 @@
 ## `> whoami`
 
 ```bash
-┌──(joel㉿night-city)-[~]
+┌──(Quinn㉿night-city)-[~]
 └─$ cat profile.cfg
 
   [IDENTITY]
@@ -45,6 +47,73 @@
 
 └─$ status
   [■■■■■■■■■■■■■■■■■■■■] 100% — ONLINE // OPEN TO NEW CONTRACTS
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## `> ./kpi --dashboard`
+
+<!-- ✏️ Reemplaza cada XX por tu cifra real -->
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/XX%2B-PROYECTOS-ff00c8?style=for-the-badge&labelColor=0d0221" /><br>
+<sub><code>ENTREGADOS</code></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/XX%2B-A%C3%91OS-00f0ff?style=for-the-badge&labelColor=0d0221" /><br>
+<sub><code>DE EXPERIENCIA</code></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/XX%2B-ENDPOINTS-f5ff00?style=for-the-badge&labelColor=0d0221" /><br>
+<sub><code>API REST EN PRODUCCIÓN</code></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/XX%2B-DASHBOARDS-ff00c8?style=for-the-badge&labelColor=0d0221" /><br>
+<sub><code>KPI CONSTRUIDOS</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/XX%25-PERFORMANCE-00f0ff?style=for-the-badge&labelColor=0d0221" /><br>
+<sub><code>MEJORA EN CONSULTAS SQL</code></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/XX%2B-TABLAS-f5ff00?style=for-the-badge&labelColor=0d0221" /><br>
+<sub><code>MODELADAS</code></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/XX%25-UPTIME-ff00c8?style=for-the-badge&labelColor=0d0221" /><br>
+<sub><code>EN SISTEMAS DESPLEGADOS</code></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/XX%2B-CLIENTES-00f0ff?style=for-the-badge&labelColor=0d0221" /><br>
+<sub><code>/ USUARIOS ATENDIDOS</code></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+## `> ./achievements --unlocked`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+
+</div>
+
+```diff
++ [UNLOCKED] Gallinazo Corp desplegado en producción → gallinazo-corp.lat
++ [UNLOCKED] Arquitectura de microservicios con Spring Boot + migraciones Flyway
++ [UNLOCKED] Sistema POS de escritorio completo: ventas, inventario y reportes
++ [UNLOCKED] APIs REST aseguradas con Spring Security + JWT
++ [UNLOCKED] XX dashboards KPI entregados para la toma de decisiones
++ [UNLOCKED] [Tu certificación / premio / hackathon aquí]
+! [IN PROGRESS] [Tu próximo objetivo: certificación, proyecto o tecnología]
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
@@ -91,6 +160,7 @@
 ### `[01]` [GALLINAZO CORP](https://gallinazo-corp.lat)
 ```diff
 + STATUS: DEPLOYED
++ KPI: XX usuarios activos · XX% uptime
 ```
 Plataforma web corporativa.
 
@@ -104,6 +174,7 @@ Plataforma web corporativa.
 ### `[02]` EVENT MANAGEMENT
 ```diff
 + STATUS: OPERATIONAL
++ KPI: XX eventos gestionados · XX endpoints
 ```
 Gestión de eventos full stack con API REST.
 
@@ -119,6 +190,7 @@ Gestión de eventos full stack con API REST.
 ### `[03]` POINT OF SALE
 ```diff
 + STATUS: OPERATIONAL
++ KPI: XX transacciones · -XX% tiempo de venta
 ```
 Sistema de punto de venta de escritorio.
 
@@ -132,6 +204,7 @@ Sistema de punto de venta de escritorio.
 ### `[04]` CATALOG SERVICE
 ```diff
 + STATUS: OPERATIONAL
++ KPI: XX productos · XX ms respuesta promedio
 ```
 Microservicio de catálogo con migraciones versionadas.
 
