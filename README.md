@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:2a0845,100:ff00c8&height=240&section=header&text=Quinn&fontSize=90&fontColor=00f0ff&fontAlignY=42&desc=%3E%3E%20FULL%20STACK%20DEVELOPER%20%2F%2F%20BACKEND%20OPERATOR&descSize=17&descAlignY=66&descColor=f5ff00&stroke=ff00c8&strokeWidth=2&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:2a0845,100:ff00c8&height=240&section=header&text=JOEL&fontSize=90&fontColor=00f0ff&fontAlignY=42&desc=%3E%3E%20FULL%20STACK%20DEVELOPER%20%2F%2F%20BACKEND%20OPERATOR&descSize=17&descAlignY=66&descColor=f5ff00&stroke=ff00c8&strokeWidth=2&animation=twinkling" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E+initializing+neural_link...;%3E+loading+modules%3A+java+%7C+spring+%7C+laravel;%3E+rendering+UI%3A+react+%7C+angular+%7C+typescript;%3E+connecting+to+database%3A+postgres%3A%2F%2Fnight.city;%3E+system+online.+welcome%2C+netrunner_" alt="Typing SVG" />
@@ -24,7 +24,7 @@
 ## `> whoami`
 
 ```bash
-┌──(Quinn㉿night-city)-[~]
+┌──(joel㉿night-city)-[~]
 └─$ cat profile.cfg
 
   [IDENTITY]
@@ -112,8 +112,8 @@
 + [UNLOCKED] Sistema POS de escritorio completo: ventas, inventario y reportes
 + [UNLOCKED] APIs REST aseguradas con Spring Security + JWT
 + [UNLOCKED] XX dashboards KPI entregados para la toma de decisiones
-+ [UNLOCKED] [Tu certificación / premio / hackathon aquí]
-! [IN PROGRESS] [Tu próximo objetivo: certificación, proyecto o tecnología]
++ [UNLOCKED] Shanghai International Hackathon | 3rd 🥉
+! [IN PROGRESS] Oracle Certified Associate Java
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
