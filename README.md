@@ -230,9 +230,9 @@ Microservicio de catálogo con migraciones versionadas.
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0d0221&color=00f0ff&line=ff00c8&point=f5ff00&area=true&area_color=ff00c8&hide_border=true&title_color=ff00c8" />
 
 </div>
-
-<div align="center">
 -->
+<div align="center">
+
 ```
 // END OF TRANSMISSION — WAKE UP, DEVELOPER. WE HAVE A CITY TO BUILD.
 ```
