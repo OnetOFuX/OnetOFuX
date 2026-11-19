@@ -60,11 +60,11 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/XX%2B-PROYECTOS-ff00c8?style=for-the-badge&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/95%2B-PROYECTOS-ff00c8?style=for-the-badge&labelColor=0d0221" /><br>
 <sub><code>ENTREGADOS</code></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/XX%2B-A%C3%91OS-00f0ff?style=for-the-badge&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/3%2B-A%C3%91OS-00f0ff?style=for-the-badge&labelColor=0d0221" /><br>
 <sub><code>DE EXPERIENCIA</code></sub>
 </td>
 <td align="center" width="25%">
