@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/%2F%2F_LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=f5ff00&labelColor=0d0221)](www.linkedin.com/in/joel-david-pacheco-quispe-b8a151451)
 [![Email](https://img.shields.io/badge/%2F%2F_EMAIL-0d0221?style=for-the-badge&logo=protonmail&logoColor=00f0ff&labelColor=0d0221)](mailto:mortisedsteam409@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=ff00c8&label=SIGNAL+INTERCEPTS" />
+<img src="https://komarev.com/ghpvc/?username=Onetofux&style=flat-square&color=ff00c8&label=SIGNAL+INTERCEPTS" />
 
 </div>
 
