@@ -12,7 +12,7 @@
 
 [![Portfolio](https://img.shields.io/badge/%2F%2F_PORTFOLIO-0d0221?style=for-the-badge&logo=googlechrome&logoColor=00f0ff&labelColor=0d0221)](https://gallinazo-corp.lat)
 [![GitHub](https://img.shields.io/badge/%2F%2F_GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=ff00c8&labelColor=0d0221)](https://github.com/onetofux)
-[![LinkedIn](https://img.shields.io/badge/%2F%2F_LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=f5ff00&labelColor=0d0221)](www.linkedin.com/in/joel-david-pacheco-quispe-b8a151451)
+[![LinkedIn](https://img.shields.io/badge/%2F%2F_LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=f5ff00&labelColor=0d0221)](https://www.linkedin.com/in/joel-david-pacheco-quispe-b8a151451/)
 [![Email](https://img.shields.io/badge/%2F%2F_EMAIL-0d0221?style=for-the-badge&logo=protonmail&logoColor=00f0ff&labelColor=0d0221)](mailto:mortisedsteam409@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=Onetofux&style=flat-square&color=ff00c8&label=SIGNAL+INTERCEPTS" />
