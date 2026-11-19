@@ -60,7 +60,7 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/95%2B-PROYECTOS-ff00c8?style=for-the-badge&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/15%2B-PROYECTOS-ff00c8?style=for-the-badge&labelColor=0d0221" /><br>
 <sub><code>ENTREGADOS</code></sub>
 </td>
 <td align="center" width="25%">
@@ -68,29 +68,29 @@
 <sub><code>DE EXPERIENCIA</code></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/XX%2B-ENDPOINTS-f5ff00?style=for-the-badge&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/58%2B-ENDPOINTS-f5ff00?style=for-the-badge&labelColor=0d0221" /><br>
 <sub><code>API REST EN PRODUCCIÓN</code></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/XX%2B-DASHBOARDS-ff00c8?style=for-the-badge&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/14%2B-DASHBOARDS-ff00c8?style=for-the-badge&labelColor=0d0221" /><br>
 <sub><code>KPI CONSTRUIDOS</code></sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/XX%25-PERFORMANCE-00f0ff?style=for-the-badge&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/85%25-PERFORMANCE-00f0ff?style=for-the-badge&labelColor=0d0221" /><br>
 <sub><code>MEJORA EN CONSULTAS SQL</code></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/XX%2B-TABLAS-f5ff00?style=for-the-badge&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/92%2B-TABLAS-f5ff00?style=for-the-badge&labelColor=0d0221" /><br>
 <sub><code>MODELADAS</code></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/XX%25-UPTIME-ff00c8?style=for-the-badge&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/95%25-UPTIME-ff00c8?style=for-the-badge&labelColor=0d0221" /><br>
 <sub><code>EN SISTEMAS DESPLEGADOS</code></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/XX%2B-CLIENTES-00f0ff?style=for-the-badge&labelColor=0d0221" /><br>
+<img src="https://img.shields.io/badge/10%2B-CLIENTES-00f0ff?style=for-the-badge&labelColor=0d0221" /><br>
 <sub><code>/ USUARIOS ATENDIDOS</code></sub>
 </td>
 </tr>
