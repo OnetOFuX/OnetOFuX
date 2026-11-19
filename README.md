@@ -217,7 +217,7 @@ Microservicio de catálogo con migraciones versionadas.
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
+<!--
 ## `> netstat --telemetry`
 
 <div align="center">
@@ -232,7 +232,7 @@ Microservicio de catálogo con migraciones versionadas.
 </div>
 
 <div align="center">
-
+-->
 ```
 // END OF TRANSMISSION — WAKE UP, DEVELOPER. WE HAVE A CITY TO BUILD.
 ```
